@@ -1,0 +1,45 @@
+{
+  "name": "Adspirer Search Ads",
+  "key": "adspirer-search-ads",
+  "host": "perplexity",
+  "version": "1.0.0",
+  "description": "PPC advertising agent for Google and Bing. Research keywords and competitor ads, launch search campaigns, and optimize paid-search spending—with your approval.",
+  "mcp": {
+    "url": "https://mcp.adspirer.com/search-ads",
+    "transport": "streamable-http",
+    "auth": "oauth2 (browser sign-in, PKCE)"
+  },
+  "readOnly": false,
+  "category": "Marketing / Advertising",
+  "platforms": "Google Ads and Microsoft (Bing) Ads",
+  "logo": "https://storage.googleapis.com/adspirer-images-v1/brand/adspirer-logo-square.png",
+  "homepage": "https://www.adspirer.com",
+  "support": "support@adspirer.com",
+  "docs": "https://www.adspirer.com/docs",
+  "privacy": "https://www.adspirer.com/privacy",
+  "terms": "https://www.adspirer.com/terms",
+  "connections": "https://adspirer.ai/connections",
+  "skills": [
+    "adspirer-search-agent",
+    "adspirer-search-campaigns",
+    "adspirer-search-competitors",
+    "adspirer-search-creative",
+    "adspirer-search-docs",
+    "adspirer-search-google-ads",
+    "adspirer-search-google-analytics",
+    "adspirer-search-google-search-console",
+    "adspirer-search-google-tag-manager",
+    "adspirer-search-keywords",
+    "adspirer-search-mcp",
+    "adspirer-search-measurement",
+    "adspirer-search-microsoft-ads",
+    "adspirer-search-optimize",
+    "adspirer-search-performance-review",
+    "adspirer-search-setup"
+  ],
+  "toolsSkill": "adspirer-search-mcp",
+  "derivedFrom": {
+    "repository": "https://github.com/Adspirer/adspirer-search-ads-cursor-plugin",
+    "version": "1.0.4"
+  }
+}
