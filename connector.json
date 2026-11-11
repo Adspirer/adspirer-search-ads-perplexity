@@ -2,7 +2,7 @@
   "name": "Adspirer Search Ads",
   "key": "adspirer-search-ads",
   "host": "perplexity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PPC advertising agent for Google and Bing. Research keywords and competitor ads, launch search campaigns, and optimize paid-search spending—with your approval.",
   "mcp": {
     "url": "https://mcp.adspirer.com/search-ads",
